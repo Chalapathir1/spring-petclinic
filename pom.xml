@@ -306,9 +306,10 @@
                 <version>2.13</version>
                 <configuration>
                     <testFailureIgnore>true</testFailureIgnore>
-                    <includes>
-                        <include>**/*Tests.java</include>
+                    <!-- <includes>
+                       <include>**/*Tests.java</include>
                     </includes>
+                    -->
                 </configuration>
             </plugin>
             <plugin>
